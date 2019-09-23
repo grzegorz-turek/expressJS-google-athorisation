@@ -1,0 +1,23 @@
+{
+  "name": "webpack-exercise",
+  "version": "1.0.0",
+  "description": "webpack env config",
+  "main": "index.js",
+  "scripts": {
+    "gitpsh": "git add . && git commit -m \"Init\" && git push -u origin master"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "Grzegorz Turek",
+  "license": "ISC",
+  "devDependencies": {
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^2.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
